@@ -1,0 +1,17 @@
+Proyecto Honduras - SI
+
+Participantes del grupo: Elena Ballesta, Marcos Torregrosa, Sofia Lacal
+Scrum Master: rotatorio entre Elena y Sofia, empieza Elena. 
+
+
+Documentos Google:
+https://docs.google.com/document/d/10ftqL2OBx3n2RRz_X7bxrHBtXOc-uiHPCPXgIq-QCUQ/edit?usp=sharing
+
+Enlace GitHub:
+https://github.com/SofiaLacal/ProyectoHonduras
+
+Metodología de trabajo:
+Reparto de tareas: 
+	- Sofia: Introducción y contexto
+	- Elena: Análisis de necesidades
+	- Marcos: Esquema modelo OSI y dispositivos incluidos
