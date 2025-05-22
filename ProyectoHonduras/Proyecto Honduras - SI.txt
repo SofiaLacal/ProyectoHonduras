@@ -15,3 +15,6 @@ Reparto de tareas:
 	- Sofia: Introducción y contexto
 	- Elena: Análisis de necesidades
 	- Marcos: Esquema modelo OSI y dispositivos incluidos
+
+Trabajo en Github:
+Trabajamos desde el main, subiendo cada uno lo que ha hecho.
